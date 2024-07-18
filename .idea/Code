@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 url_m = "https://ukrchess.org.ua/kvalif/FIDE/rat_m.html"
 url_w = "https://ukrchess.org.ua/kvalif/FIDE/rat_w.html"
 
-API_TOKEN = '7272146774:AAH4gXKTVLsBjRmLfLA2_Vguw9CCbDZPaTU'
+API_TOKEN = 'Your API-key'
 bot = telebot.TeleBot(API_TOKEN)
 
 
